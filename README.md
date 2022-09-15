@@ -13,7 +13,7 @@ $ ssh-add -D //removes all ssh entries from the ssh-agent
 //$ ssh-add ~/.ssh/gmailgitprojects // Adds the relevant ssh key
 
 //reset your remote => git remote set-url origin git@github.com-gmailgitprojects:Akomspatrick/CodeChallenge.git
-
+ git remote set-url origin git@github.com-gmailgitprojects:Akomspatrick/CodeChallenge.git
 $ git config user.name "activehacker"
 $ git config user.email "jexlab@gmail.com" 
 or you can have global git config $ git config --global user.name "jexchan" $ git config --global user.email "jexchan@gmail.com"
