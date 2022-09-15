@@ -12,7 +12,7 @@ reverse = function(myarray)
 }
 reverse(sampleData)
 console.log(`The original   array is  ${sampleData}`)
-console.log(`The reversed   array is  ${reversed}`)
+console.log(`But The reversed   array is  ${reversed}`)
 
 
 
